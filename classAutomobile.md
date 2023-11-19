@@ -30,6 +30,7 @@ class Automobile
     public String addVehicle(String autoMake, String autoModel, String autoColor, int autoYear, int autoMileage, int autoId) 
         Create new Automobile instance
         Add new vehicle to inventory with autoMake, autoModel, autoColor, autoYear, autoMileage, and autoId
+        Return "Vehicle added"
 
 
     public String listVehicles()
