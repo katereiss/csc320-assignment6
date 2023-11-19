@@ -17,13 +17,13 @@ update vehicle attributes method
 
 Start Program
 
-class Automobile
-    private String make
-    private String model
-    private String color
-    private int year
-    private int mileage
-    private int vehicleId
+class Automobile  
+    private String make  
+    private String model  
+    private String color  
+    private int year  
+    private int mileage  
+    private int vehicleId  
 
     private ArrayList inventory
 
